@@ -1,0 +1,28 @@
+{
+  "name": "express-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adidi/express-base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adidi/express-base/issues"
+  },
+  "homepage": "https://github.com/Adidi/express-base#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "busboy": "^0.3.1",
+    "express": "^4.16.3",
+    "fast-csv": "^3.3.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0"
+  }
+}
